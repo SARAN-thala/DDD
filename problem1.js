@@ -2,21 +2,27 @@ const shoppingCart = [];
 
 function addToCart(product, quantity) {
     const cart = {
-        product, quantity
+        product, quantity, isRemoved: false
     }
     return shoppingCart.push(cart)
 }
 
 function removeFromCart(product) {
-    let cartIndex = shoppingCart.findIndex((item) => {
-        return item.product === product;
+    shoppingCart.forEach((item) => {
+        if (item.product === product) {
+            return item.isRemoved = true;
+        }
     });
+}
 
-    return shoppingCart.splice(cartIndex, 1)
+function showRemovedItems() {
+    let removedItems = shoppingCart.filter((item) => item.isRemoved === true);
+    return removedItems.flatMap(item => item.product).toString()
 }
 
 module.exports = {
     addToCart,
     shoppingCart,
-    removeFromCart
+    removeFromCart,
+    showRemovedItems
 }
