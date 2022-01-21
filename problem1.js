@@ -4,4 +4,7 @@ function addToCart(product) {
     shoppingCart.push(product)
 }
 
-addToCart("IPad Pro");
+module.exports = {
+    addToCart,
+    shoppingCart
+}
