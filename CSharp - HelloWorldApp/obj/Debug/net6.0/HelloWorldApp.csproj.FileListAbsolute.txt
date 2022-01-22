@@ -1,0 +1,30 @@
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.deps.json
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.runtimeconfig.json
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/ref/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.pdb
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.AssemblyReference.cache
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfo.cs
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/ref/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.pdb
+/Users/abhinav.gupta/Code/Practice/dotnet6/HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.genruntimeconfig.cache
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/HelloWorldApp
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.deps.json
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.runtimeconfig.json
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/ref/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/bin/Debug/net6.0/HelloWorldApp.pdb
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.AssemblyReference.cache
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.AssemblyInfo.cs
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/ref/HelloWorldApp.dll
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.pdb
+/Users/abhinav.gupta/Code/GitHub/DDD/CSharp - HelloWorldApp/obj/Debug/net6.0/HelloWorldApp.genruntimeconfig.cache
