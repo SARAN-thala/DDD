@@ -1,0 +1,23 @@
+{
+  "name": "ddd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SARAN-thala/DDD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SARAN-thala/DDD/issues"
+  },
+  "homepage": "https://github.com/SARAN-thala/DDD#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
